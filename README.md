@@ -130,21 +130,21 @@ PC/Mobile 메인페이지 A to Z 단독 수행. DB 설계부터 관리자 페이
 
 ---
 
-### 🔮 [K-관상 AI 분석 웹앱](https://github.com/zunstar-portfolio)
+### 🔮 [K-관상 AI 분석 웹앱](https://face.petvers.co.kr/)
 전통 관상학 + AI 기술 융합 엔터테인먼트 서비스.
 
 **기술**: React, TypeScript, Canvas API, Google Gemini Vision AI
 
 ---
 
-### 🤖 [AI 고객지원 시스템](https://github.com/zunstar-portfolio)
+### 🤖 [AI 고객지원 시스템]
 Google Gemini API 기반 CS 자동 답변 생성 시스템.
 
 **기술**: NestJS, TypeScript, Google Gemini AI, MySQL
 
 ---
 
-### 📈 [실시간 CRM 대시보드](https://github.com/zunstar-portfolio)
+### 📈 [실시간 CRM 대시보드](https://crm.petvers.co.kr)
 WebSocket 기반 실시간 웹 애널리틱스 모니터링 플랫폼.
 
 **기술**: React, TypeScript, WebSocket, Recharts
